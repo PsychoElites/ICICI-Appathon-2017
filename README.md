@@ -1,8 +1,8 @@
 # Providing Talkback Facility for Differently Abled 
 
-We propose to develop a platform that provides an ability to the differently abled people to utilize the prowess of modern day banking services. We believe that the banking services should be accessible to everyone.
+We proposed to develop a platform that provides an ability to the differently abled people to utilize the prowess of modern day banking services. We believe that the banking services should be accessible to everyone.
 
-The idea is to make an interactive interface which will ease up the process of Banking Services. The user will give voice commands to perform some functions. Although, this is mostly backend work, we can implement this feature in a standalone desktop application. 
+The idea was to make an interactive interface which will ease up the process of Banking Services. The user will give voice commands to perform some functions. Although, this was mostly backend work, we can also implement this feature in a standalone desktop application. 
 
 # Objectives
 

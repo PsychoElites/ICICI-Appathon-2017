@@ -79,7 +79,7 @@ namespace Hackathon_ICICI
                             if (item.Contains("yes"))
                             {
                                 //loginButton.Enabled = true;
-                                
+                                base.OnBackPressed();
                             }
                             else if (item.Contains("exit"))
                             {

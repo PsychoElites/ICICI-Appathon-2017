@@ -116,8 +116,7 @@ namespace Hackathon_ICICI
         protected override void OnActivityResult(int requestCode, Result resultVal, Intent data)
         {
             Button submitButton = FindViewById<Button>(Resource.Id.finalSubmitButton);
-            //Button b_personalDetails = FindViewById<Button>(Resource.Id.servicePersonal);
-            //speaker.Main_speaker("I'm here!!!!!");
+            
             Console.WriteLine("Inside HERE");
 
             try

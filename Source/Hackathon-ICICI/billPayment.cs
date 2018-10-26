@@ -83,7 +83,7 @@ namespace Hackathon_ICICI
             });
 
             await System.Threading.Tasks.Task.Delay(7000);
-            //Thread.Sleep(5000);
+            
             await System.Threading.Tasks.Task.Run(() => {
                 activeTextField = FindViewById<EditText>(Resource.Id.fundAmount);
                 StartActivityForResult(voiceIntent, VOICE);

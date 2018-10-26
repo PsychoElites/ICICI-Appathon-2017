@@ -39,7 +39,7 @@ namespace Hackathon_ICICI
             voiceIntent.PutExtra(RecognizerIntent.ExtraSpeechInputMinimumLengthMillis, 25000);
             voiceIntent.PutExtra(RecognizerIntent.ExtraMaxResults, 1);
             voiceIntent.PutExtra(RecognizerIntent.ExtraLanguage, Java.Util.Locale.Default);
-            // Create your application here
+            
 
             FindViewById<EditText>(Resource.Id.billCustID).Text = custId;
 

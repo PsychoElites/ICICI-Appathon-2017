@@ -88,9 +88,7 @@ namespace Hackathon_ICICI
                 activeTextField = FindViewById<EditText>(Resource.Id.fundAmount);
                 StartActivityForResult(voiceIntent, VOICE);
             });
-            //Button submitBUtton = FindViewById<Button>(Resource.Id.imageButton1);
-            //submitBUtton.PerformClick();
-
+            
             Button submitButon = FindViewById<Button>(Resource.Id.finalSubmitButton);
             submitButon.Click += async delegate
             {

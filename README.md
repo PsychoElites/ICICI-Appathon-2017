@@ -21,4 +21,3 @@ Currently no banking system is offering this service for differently abled peopl
 * [Dhruv Kanojia](https://github.com/Xonshiz)
 * [Devesh Shyngle](https://github.com/deveshyngle)
 * [Ankit Passi](https://github.com/ankitpassi141)
-* [Nishit Bose](https://github.com/orgs/PsychoticElites/people/nishitbose)
